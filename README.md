@@ -20,7 +20,7 @@ I'm **Koushik Kumar**, a **Full Stack Developer & Aspiring SDE**, currently star
 
 I love turning ideas into working products, writing clean code, and constantly leveling up my skills across the stack.
 
-- 🌱 Currently sharpening my skills in **Java, Python, React & Spring Boot**
+- 🌱 Currently sharpening my skills in **Java, Python, React & FastAPI**
 - 🎯 Aiming to become a strong **Software Development Engineer (SDE)**
 - 🧪 Big believer in solid testing practices — SDLC, Unit & Smoke Testing
 - ⚡ Fun fact: I enjoy debugging almost as much as building — almost 😄
